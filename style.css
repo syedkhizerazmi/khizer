@@ -1,0 +1,19 @@
+button{
+	padding: 10px 40px;
+	color: white;
+	background-color: green;
+	border: none;
+	transition: 5s;
+	font-weight: bold;
+	
+
+}
+body{
+	margin: 2px;
+}
+button:hover{
+
+	background-color: blue;
+	transition: 2s;
+
+}
